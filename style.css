@@ -37,7 +37,7 @@ form {
 }
 
 .todos {
-    background-color:white;
+    background-color:transparent;
     padding: 0;
     margin: 2px;
     list-style-type: none;
